@@ -1,7 +1,7 @@
 ### Hi there , I'm senk. 👋
 
 
-- 🔭 I’m a student at Hose university.
+- 🔭 I’m currently a student at Hosei university.
 - 🌱 I’m currently learning Cryptography.
 
 <!--
