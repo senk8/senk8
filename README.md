@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there , I'm senk. 👋
+
+
+- 🔭 I’m a student at Hose university.
+- 🌱 I’m currently learning Cryptography.
 
 <!--
 **senk8/senk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
