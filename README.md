@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=senk8&hide=html,javascript)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=senk8&hide=html,javascript&langs_count=6)
