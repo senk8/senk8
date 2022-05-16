@@ -4,8 +4,6 @@
 - 🔭 I’m currently a student at Hosei University.
 - 🌱 I’m currently learning Cryptography.
 
-I'm into writing a tech blog. Please refer to [Zenn](https://zenn.dev/senk)
-
 <!--
 **senk8/senk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
