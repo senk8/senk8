@@ -1,7 +1,9 @@
-### Hi there , I'm senk. 👋
+
 
 
 <!--
+### Hi there , I'm senk. 👋
+
 **senk8/senk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,5 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=senk8&layout=compact))
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senk8&layout=compact&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=senk8&theme=dracula" />
+</a>
