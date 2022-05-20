@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senk8&layout=compact&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=senk8&theme=dracula" />
-</a>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=senk8&layout=compact&theme=cobalt&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senk8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 -->
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=senk8&layout=compact&theme=dracula)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senk8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senk8&layout=compact&theme=cobalt&show_icons=true" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=senk8&theme=cobalt" />
+</p>
